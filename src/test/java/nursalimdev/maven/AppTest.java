@@ -1,4 +1,4 @@
-package nusalimdev.maven;
+package nursalimdev.maven;
 
 import static org.junit.Assert.assertTrue;
 
